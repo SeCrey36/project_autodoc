@@ -1,0 +1,2 @@
+----------- - Пароль mysql
+http://project.ru/phpMyAdmin/ - панель работы с бд

@@ -1,0 +1,6 @@
+<!-- Тип кодирования данных, enctype, ДОЛЖЕН БЫТЬ указан ИМЕННО так -->
+<form enctype="multipart/form-data" action="file.php" method="POST">
+    <!-- Название элемента input определяет имя в массиве $_FILES -->
+    Отправить этот файл: <input name="exceldoc" type="file" />
+    <input type="submit" value="Отправить файл" />
+</form>
